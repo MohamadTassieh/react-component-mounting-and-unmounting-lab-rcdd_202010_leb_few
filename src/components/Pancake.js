@@ -1,4 +1,4 @@
-import React from "react";
+mport React from "react";
 
 class Pancake extends React.Component {
   constructor(props) {
@@ -85,3 +85,5 @@ componentWillUnmount() {
     );
   }
 }
+
+export default Pancake;
